@@ -33,7 +33,7 @@
 
 [submodule "components/json/cJSON"]
 	path = components/json/cJSON
-	url = https://github.com/ajaybhargav/cJSON.git
+	url = https://github.com/msia3dev/cJSON.git
 
 [submodule "components/mbedtls/mbedtls"]
 	path = components/mbedtls/mbedtls
